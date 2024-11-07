@@ -16,10 +16,17 @@ Features
 6.GUI: A simple Tkinter-based graphical user interface for controlling the assistant.
 
 Requirements
-Python 3.12 or higher
-Speech Recognition: speech_recognition
-Text-to-Speech Engine: pyttsx3
-YouTube Automation: pywhatkit
-Wikipedia Search: wikipedia
-Joke Generator: pyjokes
-GUI Library: tkinter
+
+1.Python 3.12 or higher
+
+2.Speech Recognition: speech_recognition
+
+3.Text-to-Speech Engine: pyttsx3
+
+4.YouTube Automation: pywhatkit
+
+5.Wikipedia Search: wikipedia
+
+6.Joke Generator: pyjokes
+
+7.GUI Library: tkinter
